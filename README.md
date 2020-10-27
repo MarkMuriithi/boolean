@@ -1,0 +1,2 @@
+# boolean
+Javascript Boolean example
